@@ -11,6 +11,3 @@ test-results.xml
 node_modules/
 .env
 
-# Ignore all files outside the project directory
-/*
-!/solar-system-main/
