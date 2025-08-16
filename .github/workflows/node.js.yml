@@ -25,4 +25,7 @@ jobs:
 
       - name: Run
         run: npm run 
+        
+      - name: tset
+        run : npm tset 
        
