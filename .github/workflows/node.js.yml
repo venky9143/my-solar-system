@@ -23,6 +23,6 @@ jobs:
       - name: Audit Fix
         run: npm audit fix
 
-      - name: Build
-        run: npm run build
+      - name: Run
+        run: npm run 
        
