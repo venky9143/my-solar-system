@@ -19,4 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+
+      - name: Audit Fix
+        run: npm audit-fix 
        
