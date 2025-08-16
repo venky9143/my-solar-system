@@ -21,5 +21,5 @@ jobs:
         run: npm install
 
       - name: Audit Fix
-        run: npm audit-fix 
+        run: npm audit fix 
        
