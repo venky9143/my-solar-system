@@ -22,8 +22,8 @@
     "nyc": "^15.1.0"
   },
   "devDependencies": {
-    "chai": "*",
-    "chai-http": "*",
-    "mocha": "*"
-  }
+  "chai": "^4.3.8",
+  "chai-http": "^4.3.0",
+  "mocha": "^10.2.0"
+}
 }
